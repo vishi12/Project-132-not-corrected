@@ -1,0 +1,35 @@
+body{
+    background-size:cover;
+    text-align:center;
+}
+
+#heading{
+    font-size:50px;
+    width:100%;
+    color:white;
+    margin-bottom:50px;
+}
+
+#back_button1{
+    font-size:20px;
+    color:white;
+    margin-top:450px;
+}
+
+#status{
+    font-size:18px;
+    color:white;
+    margin-right:30px;
+}
+
+#number{
+    font-size:18px;
+    color:white;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    margin-top:50px;
+    box-shadow:10 10 10 gray;
+}
